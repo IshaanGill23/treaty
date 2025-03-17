@@ -1,0 +1,19 @@
+img {
+  width: 360px;
+  height: 360px;
+}
+
+h3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.image-item {
+  text-align: center;
+}
